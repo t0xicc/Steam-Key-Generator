@@ -23,3 +23,7 @@ pip install -r requirements.txt
 ## 🚀 Kullanım
 
 - python steam_key_checker.py ya da direkt .exe dosyasını çalıstırın (Windows kullanıyorsanız)
+
+## 🧰 Support
+
+- Email: alierenyamann@icloud.com
