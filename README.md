@@ -1,4 +1,4 @@
-# 🎮 Steam Key Checker
+# 🎮 Steam Key Generator
 
 Bu uygulama, rastgele Steam key'leri üretip sahte geçerlilik kontrolü yapar. Geçerli olarak simüle edilen key'ler bulunduğunda kullanıcıya bildirim gönderir ve istenirse Discord webhook ile paylaşır.
 
